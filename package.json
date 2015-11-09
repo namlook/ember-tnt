@@ -1,7 +1,7 @@
 {
   "name": "ember-tnt",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "emepyc's tnt Ember addon",
   "directories": {
     "doc": "doc",
     "test": "tests"
